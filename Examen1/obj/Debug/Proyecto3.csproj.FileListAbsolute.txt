@@ -1,0 +1,16 @@
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\Examen1.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\Examen1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\BLL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Proyecto3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Examen1.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Examen1.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Proyecto3.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Proyecto3.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Examen1.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\obj\Debug\Examen1.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\Examen1\bin\Debug\DAL.pdb

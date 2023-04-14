@@ -1,0 +1,9 @@
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\bin\Debug\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\bin\Debug\DAL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\bin\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\bin\Debug\BLL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\obj\Debug\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Proyecto 3\Examen1\DAL\obj\Debug\DAL.pdb
